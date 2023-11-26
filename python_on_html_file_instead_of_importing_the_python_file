@@ -4,15 +4,22 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Hello, World!</title>
+  <title>Hello World from Python in file</title>
+
+<!--Beginning of python specific imports-->
   <link rel="stylesheet" href="https://pyscript.net/alpha/pyscript.css" />
   <script defer src="https://pyscript.net/alpha/pyscript.js"></script>
+
+
+<!--End of python specific imports-->
 </head>
 
 
 <body>
   <py-script>print("A pyscript 'Hello World' from Godbrand Games L.L.C. !")</py-script>
   <py-script>print("In this example we coded the python on the html file vs importing a python file")</py-script>
+  <py-script>print("Programmer: Akinwale Owi")</py-script>
+ 
 </body>
 
 </html>
