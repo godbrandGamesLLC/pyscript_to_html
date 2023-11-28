@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Hello World from Python in file</title>
+
+<!--Beginning of python specific imports-->
+  <link rel="stylesheet" href="https://pyscript.net/alpha/pyscript.css" />
+  <script defer src="https://pyscript.net/alpha/pyscript.js"></script>
+
+
+<!--End of python specific imports-->
+</head>
+
+
+<body>
+  <py-script>print("print sample: A pyscript 'Hello World' from Godbrand Games L.L.C. !")</py-script>
+
+  <py-script>print("Math and print sample: ",5*5)</py-script>
+
+  <py-script>#name_programmer = input("Who's your favorite programmer?")</py-script>
+  <py-script>#print(name_programmer + "? Me too!")</py-script>
+
+
+ 
+</body>
+
+</html>
